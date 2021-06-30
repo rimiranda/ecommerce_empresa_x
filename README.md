@@ -42,4 +42,4 @@ __Melhoria 1__, melhoria 2
 
 [Google](https://www.google.com)
 
-[https://www.horadecodar.com.br](hppts//www.horadecodar.com.br)
+[https://www.horadecodar.com.br/](https://www.horadecodar.com.br/)
