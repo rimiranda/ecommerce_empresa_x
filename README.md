@@ -47,3 +47,11 @@ git
 Contibuidor princial: https://www.github.com/rimiranda
 
 [![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png)](https://www.github.com/rimiranda)
+
+## Código da função soma
+
+```javascript
+function soma(a,b){
+  return a + b
+}
+```
