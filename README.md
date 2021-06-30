@@ -20,7 +20,7 @@ __Melhoria 1__, melhoria 2
 * PHP
 * MySQL
 
-### Funcionalidade a desenvolver:
+### Funcionalidades a desenvolver:
 
 1. Área de membros
   1. Login diferente para grupos de cliente
