@@ -39,7 +39,9 @@ __Melhoria 1__, melhoria 2
 ![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png)
 
 ## Links interessantes:
-
+git
 [Google](https://www.google.com)
 
 [https://www.horadecodar.com.br/](https://www.horadecodar.com.br/)
+
+Contibuidor princial: https://www.github.com/rimiranda
